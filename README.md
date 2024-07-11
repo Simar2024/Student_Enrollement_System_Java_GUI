@@ -1,1 +1,1 @@
-# Student_Enrollement_System_Java_GUI
+# Student_Enrollement_System_Java_GUI- Using the same logic as the student enrollment system CUI but created GUI features and also connected the enrollement system to SQL databse to store data. This creates a full student enrollment system.
